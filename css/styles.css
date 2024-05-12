@@ -1,0 +1,20 @@
+.bg-heading-color {
+  background-color: #fdf599;
+}
+
+.navbar-bg-color {
+  background-color: #e6e3ce;
+}
+h1 {
+}
+h1,
+p {
+  font-family: dancing script;
+  font-size: 50px;
+}
+body {
+  background-color: #fff9c7;
+}
+p {
+  padding-top: 5px;
+}
